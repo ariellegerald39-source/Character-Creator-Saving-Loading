@@ -1,0 +1,7 @@
+Character Name: Lyra the Swift
+Class: Rogue
+Level: 1
+Strength: 11
+Magic: 8
+Health: 110
+Gold: 110
